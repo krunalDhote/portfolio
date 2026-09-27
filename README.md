@@ -38,6 +38,7 @@ npm run start
 - Reusable UI components: `components/`
 - Resume and portrait: `public/`
 - SEO metadata: `app/layout.tsx`, `app/robots.ts`, and `app/sitemap.ts`
+- Opt-in AI project workflow: `.ai/WORKFLOW.md`
 
 Update structured content in `lib/portfolio.ts` rather than editing repeated markup. Replace the files in `public/` while retaining their filenames if the resume or portrait changes.
 
